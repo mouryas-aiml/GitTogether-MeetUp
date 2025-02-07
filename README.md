@@ -55,7 +55,7 @@ A modern, responsive web application for creating professional resumes with a cl
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/resume-builder.git
+git clone https://github.com/mouryas-aiml/resume-builder.git
 ```
 
 2. Navigate to the project directory:
